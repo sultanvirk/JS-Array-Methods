@@ -1,6 +1,6 @@
 const str = '1234567'
 
-//  from array method is used to converet string to array
+//  from array method is used to converet string/Set to array
 //  It takes two parameters
 // Example:- Array.from(string, dataType)
 
